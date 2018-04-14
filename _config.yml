@@ -11,7 +11,7 @@ github_repo: "https://github.com/zwqco/zwqco.github.io.git" # you code repositor
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "痛苦的平庸人"
+sidebar-about-description: "他们以最普通的身份埋没在人群中，却过着最煎熬的日子"
 sidebar-avatar: /img/co.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/co.jpg      # use absolute URL, seeing it's used in both `/
 # SNS settings
 RSS: false
 # weibo_username:     Co
-zhihu_username:     co
+# zhihu_username:     co
 github_username:    zwqco
-jianshu_username:   co
+jianshu_username:   9ca46fb6d474
 
 
 
